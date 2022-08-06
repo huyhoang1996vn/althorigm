@@ -7,4 +7,3 @@ for index in range(len(lst)-1):
 
 
 print("=== lst ", lst)
-
