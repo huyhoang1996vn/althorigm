@@ -19,3 +19,10 @@ link: https://stackoverflow.com/questions/14720691/whats-the-purpose-of-bfs-and-
 
 
 
+# Type of Binary Tree
+https://www.programiz.com/dsa/binary-tree
+
+## Example
+https://blog.boot.dev/computer-science/binary-search-tree-in-python/
+
+
